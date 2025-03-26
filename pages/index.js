@@ -64,7 +64,7 @@ export default function Home() {
         <div className={styles.who}>
           <div className={styles.col1}>
             <p className={styles.sam}>Who is Samarth?</p>
-            <p className={styles.para}>Samarth Dhawan, a final year Computer Science student oozing talent and skills that impress everyone. Excelling as a frontend web developer, Samarth has tackled Internships at prestigious organizations like Indian Institute of Technology, Patna, and an ever-growing React Developer at EngineerHub. Watch out, world!</p>
+            <p className={styles.para}>Samarth Dhawan, a Computer Science graduate with a stellar 9.41 CGPA, oozes talent and skills that impress everyone. Excelling as a frontend web developer, Samarth has tackled internships at prestigious organizations like Indian Institute of Technology, Patna, and thrived as a React Developer at EngineerHub. Watch out, world!</p>
           </div>
           <div className={styles.col2}>
             <h1 className={styles.emog}>
